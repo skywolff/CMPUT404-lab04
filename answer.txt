@@ -1,0 +1,19 @@
+Question 1:
+https://github.com/skywolff/CMPUT404-lab04
+
+Question 2:
+Rocket and says the install worked
+
+Question 3:
+404 at / and "Hello, world. You're at the polls index." at /polls
+
+Question 4:
+Migration is the process of "migrating" models to the database. It automate
+the process of altering databases without losing existing data instead of
+needing to delete and make new ones.
+
+
+Question 5:
+There's a ACL section which has Groups and Users in it, and the Models created
+in polls. To get custom models to appear in admin page, we register the models
+with the admin.
