@@ -17,3 +17,15 @@ Question 5:
 There's a ACL section which has Groups and Users in it, and the Models created
 in polls. To get custom models to appear in admin page, we register the models
 with the admin.
+
+Question 6:
+/polls/38/ - "You're looking at question 38."
+/polls/38/results - You're looking at the results of question 38."
+/polls/38/vote - You're voting on question 38."
+
+Question 7:
+It's harder to refactor the URLs
+
+Question 8:
+Generic views can be used for common view patterns that need to be
+rendered, like ListView and DetailView. Instead of implementing the details.
